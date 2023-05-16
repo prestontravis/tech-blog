@@ -1,4 +1,4 @@
-# Tech Blog  
+# Model-View-Controller (MVC) Challenge: Tech Blog
 
 ## Description  
 AS A developer who writes about tech.  
@@ -41,4 +41,8 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time  
 THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments  
 
-GitHub Repository URL: https://github.com/prestontravis/tech-blog/  
+## GitHub Repository URL 
+https://github.com/prestontravis/tech-blog/
+
+## Deployed Application
+https://prestontravis.github.io/tech-blog/
