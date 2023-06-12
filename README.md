@@ -27,6 +27,7 @@
   ## Testing:
   Download the repo and try the app yourself to test this Tech Blog app.
   ## Additional Info:
+  - Deployed App: [tech-blog](https://prestontravis.github.io/tech-blog/)
   - Github: [prestontravis](https://github.com/prestontravis)
   - Email: travisprestonofficial@gmail.com
   ## Questions:
