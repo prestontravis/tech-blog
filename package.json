@@ -1,0 +1,16 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "CMS-style tech blog",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3",
+    "sequelize": "^6.6.5",
+    "mysql2": "^2.3.0",
+    "express-session": "^1.17.2",
+    "dotenv": "^10.0.0"
+  }
+}
